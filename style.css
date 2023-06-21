@@ -5,3 +5,8 @@ h1 {
 h2 {
     color: royalblue;
 }
+
+.firstLetter {
+    color: slateblue;
+    font-size: 40;
+}
