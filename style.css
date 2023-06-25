@@ -10,8 +10,32 @@ h2 {
 }
 
 .firstLetter {
-    color: slateblue;
+    color: #FF0000;
     font-size: 40;
+}
+.secondLetter {
+    color: #FF7F00;
+}
+.thirdLetter {
+    color: #FFFF00;;
+}
+.fourthLetter {
+    color: #00FF00;
+}
+.fifthLetter {
+    color: #0000FF;
+}
+.sixthLetter {
+    color: #2E2B5F;
+}
+.seventhLetter {
+    color: #8B00FF;
+}
+.eightsLetter {
+    color: #FF0000;
+}
+.ninthLetter {
+    color: #FF7F00;
 }
 .baby {
     margin-top: 220px;
