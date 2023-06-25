@@ -2,11 +2,16 @@
 h1 {
     color: red;
     text-align: center;
+    font-size: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 h2 {
     color: royalblue;
     text-align: center;
+    font-size: 70px;
+    margin-top: 0px;
 }
 
 .firstLetter {
@@ -37,10 +42,14 @@ h2 {
 .ninthLetter {
     color: #FF7F00;
 }
-.bear {
-    margin-top: 220px;
-    scale: 2;
-    margin-left: auto;
-    margin-right: auto;
+
+.pics {
     display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.bear, .cat, .baby-shake {
+    width: 700px;
+    height: 700px;
 }
