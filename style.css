@@ -10,3 +10,10 @@ h2 {
     color: slateblue;
     font-size: 40;
 }
+.baby {
+    margin-top: 220px;
+    scale: 2;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
