@@ -2,7 +2,7 @@
 h1 {
     color: red;
     text-align: center;
-    font-size: 100px;
+    font-size: 5vw;
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -10,7 +10,7 @@ h1 {
 h2 {
     color: royalblue;
     text-align: center;
-    font-size: 70px;
+    font-size: 3vw;
     margin-top: 0px;
 }
 
@@ -50,6 +50,6 @@ h2 {
 }
 
 .bear, .cat, .baby-shake {
-    width: 700px;
-    height: 700px;
+    width: 30vw;
+    height: 30vw;
 }
