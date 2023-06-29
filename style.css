@@ -1,6 +1,5 @@
 
 h1 {
-    color: red;
     text-align: center;
     font-size: 5vw;
     margin-top: 5px;
@@ -50,6 +49,19 @@ h2 {
 }
 
 .bear, .cat, .baby-shake {
-    width: 30vw;
-    height: 30vw;
+    width: 25vw;
+    height:25vw;
 }
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chi{
+    width: auto;
+    height: 10vw;
+}
+
+
+
